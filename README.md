@@ -1,0 +1,2 @@
+# .github
+About Seguru Digital
