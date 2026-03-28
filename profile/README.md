@@ -1,81 +1,80 @@
 # Seguru Digital
 
-**Digital strategy, WordPress performance, and infrastructure for mission-driven organizations.**
+**Strategy first. Then we build it.**
 
-Seguru Digital was co-founded by **Samuel Clarke** and **Cameron Gilroy**, starting as a multi-stack WordPress agency and evolving into a full digital strategy and advisory partner for organizations that want to own their data and build on resilient, open technologies. We work across the USA and Australia with clients in healthcare, legal, defense, churches and non-profits, overland and outdoor industries, and real estate.  
+Seguru Digital is a strategy-first fractional CMO and CTO that also builds. Co-founded by **Samuel Clarke** (Kentucky, USA) and **Cameron Gilroy** (NSW, Australia), we bring 40+ years of combined experience across business operations, brand, creative, and technology.
+
+We lead with the strategy layer — brand and business strategy work that happens before anyone touches a deliverable. The deliverables follow from that foundation, whether we deliver them or someone else does.
 
 ---
 
 ## What We Do
 
-### **Managed Hosting & Infrastructure**
-High-performance and secure WordPress hosting built on our Core Seguru Stack. This includes Cloudflare protection, LiteSpeed Enterprise, and multi-layered backups. Plans range from Essential to Scale, designed for reliability and real-world business needs.
+**Brand & Business Strategy · Marketing · AI · Dev Ops**
 
-### **Web Design & Development**
-Purpose-built WordPress sites that are fast, secure, accessible, and ready for long-term growth. We design for clarity, conversion, and maintainability.
+### Brand & Business Strategy
 
-### **Digital Strategy & Consulting**
-Fractional CMO and CTO support to help organizations plan, execute, and optimize their digital presence. Includes MARTECH, analytics, automation, and platform advisory.
+The foundation layer. We help founders discover, quantify, and document the strategy that makes everything else make sense — before anyone builds a thing.
 
-### **AI Strategy & Implementation**
-Practical AI enablement for teams that want to increase efficiency without losing control of their data or processes.
+### Marketing
+
+Campaigns, SEO, social, and paid media built on a real strategy, not guesswork. Always stacked on strategy — never sold standalone.
+
+### AI
+
+We work hand in hand with frontier AI from Anthropic (Claude), OpenAI (ChatGPT), Google (Gemini), and xAI (Grok) — not to replace the thinking, but to iterate faster and go deeper. Human strategy in, AI-assisted delivery out, human judgment always decides.
+
+### Dev Ops
+
+Websites, hosting, infrastructure, and custom software that just work. Every site is treated like a software product — Git version control, architecture planning, release-based updates, and full data ownership.
+
+---
+
+## What We Build
+
+| Product    | What It Does                                                                                        |
+| ---------- | --------------------------------------------------------------------------------------------------- |
+| **Titan**  | Zero-effort WordPress ecosystem. Performance, security, maintenance, and legal compliance — handled. |
+| **Atlas**  | AI-native WordPress framework. Structure first, brand second.                                       |
+| **Vulcan** | Vehicle data, builds, and business operations for the aftermarket — one system.                     |
 
 ---
 
 ## How We Work
 
-We believe in:
-- **You Own Your Data**  
-  No lock-ins. No black-box platforms.
-- **Open Web First**  
-  Open standards, transparent tooling, and long-term autonomy.
-- **Plan for the Worst**  
-  Security, backups, compliance, and infrastructure designed for resilience.
-- **Against Deplatforming**  
-  We help clients build independent digital foundations that cannot be taken away.
+We're operators who also build. Most agencies are either strategy shops that outsource the build, or dev shops that don't think strategically. We do both.
 
-We don’t try to be the hero. Our clients are the hero of their own story. We act as the guide who strengthens the foundations so they can focus on their purpose.
+Some clients use us as their entire digital team. Others already have a marketing agency or in-house staff and bring us in for the strategic and technical foundation. We fit wherever the gap is. We don't compete with existing partners — we make them better.
+
+Think of us as your digital special forces — precise, reliable, and mission-focused.
+
+---
+
+## What We Believe
+
+- **You own your data.** No lock-ins. No black-box platforms.
+- **Open web first.** Open standards, transparent tooling, and long-term autonomy.
+- **Plan for the worst.** Security, backups, compliance, and infrastructure built for resilience.
+- **Against deplatforming.** Everything we build is open, portable, and belongs to you.
+
+Read the full manifesto at [seguru.digital/manifesto](https://seguru.digital/manifesto/).
 
 ---
 
 ## Who We Serve
 
-We specialize in mission-driven small and mid-sized organizations, including:
-- Clinics, wellness centers, and alternative health providers  
-- Attorneys and law firms
-- Churches and non-profits  
-- Defense training and manufacturing companies  
-- Overland, 4WD, and adventure brands  
-- Real estate teams and brokerages  
+Founders, owners, and senior leadership running $1M+/year businesses across the USA and Australia. Industries we know well:
 
-This niche focus gives us deep understanding of compliance, security, operational context, and the real business pressures these clients face.  
-
----
-
-## Our Approach
-
-We start with hosting and infrastructure as the anchor. We then layer on strategy, design, integrations, and AI enablement in a way that fits each organization’s internal capacity and long-term goals.
-
-We prefer transparency, clear pricing, and long-term relationships built on trust. We offer referral options that reward partners with lifetime percentages for hosting and up-front commissions for project work.  
-
----
-
-## Why We Exist
-
-Seguru Digital exists to help organizations stay in control of their digital future. That means:
-- stable and secure hosting  
-- websites that actually work  
-- strategy that cuts through noise  
-- support that feels human  
-- technology that empowers rather than complicates
-
-When the digital foundation is solid, mission-driven leaders are free to do what they do best.
+- 4WD, overland, and outdoor brands
+- Churches and non-profits
+- Defense training and manufacturing
+- Health and wellness providers
+- Legal and professional services
+- eCommerce and aftermarket retail
 
 ---
 
 ## Connect With Us
 
-**Website:** https://seguru.digital  
-**GitHub:** https://github.com/segurudigital  
-
-Have an idea, a challenge, or a system that needs untangling? We’re here to help.
+**Website:** <https://seguru.digital>
+**GitHub:** <https://github.com/segurudigital>
